@@ -1,6 +1,13 @@
-## Hi, i am Aleksey!
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I am Aleksey
 
 ## I am beginner Python Developer
+
+### 👨‍💻 About Me
+* ✉️ Contact: [kabalin.alexey@yandex.com](mailto:kabalin.alexey@yandex.com)
+* 🔭 Currently working on: [roflochatik.online](http://roflochatik.online)
+* 🛠 Stack: Python • FastAPI • PostgreSQL • Docker • Linux • Git
+* 🎯 Focus: Clean architecture, API design, containerization and DevOps practices
+
 ## Languages and tools
 ![Static Badge](https://img.shields.io/badge/Python-Python?style=for-the-badge&logo=Python&color=97c900)
 ![Static Badge](https://img.shields.io/badge/FastAPI-FastAPI?style=for-the-badge&logo=FastAPI&logoColor=f2f2f2&color=05988a)
@@ -17,3 +24,7 @@
 ## Links
 ![Static Badge](https://img.shields.io/badge/Telegram-Telegram?style=for-the-badge&logo=Telegram&logoColor=ffffff&color=293a4c&link=https%3A%2F%2Ft.me%2FVot_eto_rofl)
 ![Static Badge](https://img.shields.io/badge/VK-VK?style=for-the-badge&logo=VK&logoColor=ffffff&color=293a4c&link=https%3A%2F%2Fvk.com%2Frofler8)
+<<<<<<< Updated upstream
+=======
+
+>>>>>>> Stashed changes
