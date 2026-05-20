@@ -5,7 +5,6 @@
 ### 👨‍💻 About Me
 * ✉️ Contact: [kabalin.alexey@yandex.com](mailto:kabalin.alexey@yandex.com)
 * 🔭 Currently working on: [roflochatik.online](http://roflochatik.online)
-* 🛠 Stack: Python • FastAPI • PostgreSQL • Docker • Linux • Git
 * 🎯 Focus: Clean architecture, API design, containerization and DevOps practices
 
 ## Languages and tools
