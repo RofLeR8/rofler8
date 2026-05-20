@@ -24,7 +24,3 @@
 ## Links
 ![Static Badge](https://img.shields.io/badge/Telegram-Telegram?style=for-the-badge&logo=Telegram&logoColor=ffffff&color=293a4c&link=https%3A%2F%2Ft.me%2FVot_eto_rofl)
 ![Static Badge](https://img.shields.io/badge/VK-VK?style=for-the-badge&logo=VK&logoColor=ffffff&color=293a4c&link=https%3A%2F%2Fvk.com%2Frofler8)
-<<<<<<< Updated upstream
-=======
-
->>>>>>> Stashed changes
